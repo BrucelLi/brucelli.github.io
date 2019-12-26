@@ -1,0 +1,42 @@
+I"Í<h2 id="contact">Contact</h2>
+
+<ul>
+  <li>Address: <strong>Chengdu, China</strong></li>
+  <li>Phone: <strong>+86 18608024181</strong></li>
+  <li>E-mail:
+    <ul>
+      <li><strong>brucelli1993@gmail.com</strong></li>
+      <li><strong>875703396@qq.com</strong></li>
+    </ul>
+  </li>
+  <li>WeChat: <strong>BrucelLi</strong></li>
+  <li>QQ: <strong>875703396</strong></li>
+  <li>Blog: <strong><a href="https://brucelli.github.io">https://brucelli.github.io</a></strong></li>
+</ul>
+
+<h2 id="skill">Skill</h2>
+
+<ul>
+  <li><strong>php</strong>, Familiar
+    <ul>
+      <li><strong>laravel</strong>, Familiar</li>
+      <li><strong>Yii</strong>, Familiar</li>
+      <li><strong>Tp</strong>, Familiar</li>
+      <li><strong>swoole</strong>, Familiar</li>
+    </ul>
+  </li>
+  <li><strong>Python</strong>, Familiar</li>
+  <li><strong>Markdown</strong>, Familiar</li>
+  <li><strong>javascript</strong>, Familiar
+    <ul>
+      <li><strong>jquery</strong>, Familiar</li>
+      <li><strong>vue</strong>, Familiar</li>
+      <li><strong>react</strong>, Familiar</li>
+      <li><strong>createJs</strong>, Familiar</li>
+    </ul>
+  </li>
+  <li><strong>Linux</strong>, Familiar&amp;Learning</li>
+  <li><strong>Git</strong>, Familiar</li>
+</ul>
+
+:ET
