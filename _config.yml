@@ -7,7 +7,7 @@ baseurl: "" # 假如你的博客是建在某个目录下的，请在这里加上
 timezone: Asia/Shanghai
 
 title: brucelli-blog
-url: http://192.168.10.10:8888  # http://brucelli.github.io
+url: https://brucelli.github.io
 author: brucelli
 
 head: # 删改前确定知道自己在做什么
